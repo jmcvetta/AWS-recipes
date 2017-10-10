@@ -26,6 +26,7 @@
                 "ec2:DescribeVpcs",
                 "elasticache:DescribeCacheClusters",
                 "elasticache:DescribeCacheSubnetGroups",
+                "elasticfilesystem:DescribeFileSystems",
                 "elasticloadbalancing:DescribeLoadBalancers",
                 "elasticmapreduce:DescribeCluster",
                 "elasticmapreduce:ListClusters",
